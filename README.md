@@ -46,8 +46,8 @@ To run Blackbird, ensure the following dependencies are installed:
    ```
 4. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/blackbird-ip-scanner.git
-   cd blackbird-ip-scanner
+   git clone https://github.com/<your-username>/Blackbiard-Advanced-IP-Scanner.git
+   cd Blackbiard-Advanced-IP-Scanner
    ```
 
 ### Ubuntu
@@ -65,8 +65,8 @@ To run Blackbird, ensure the following dependencies are installed:
    ```
 4. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/blackbird-ip-scanner.git
-   cd blackbird-ip-scanner
+   git clone https://github.com/<your-username>/Blackbiard-Advanced-IP-Scanner.git
+   cd Blackbiard-Advanced-IP-Scanner
    ```
 
 ### macOS
@@ -84,8 +84,8 @@ To run Blackbird, ensure the following dependencies are installed:
    ```
 4. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/blackbird-ip-scanner.git
-   cd blackbird-ip-scanner
+   git clone https://github.com/<your-username>/Blackbiard-Advanced-IP-Scanner.git
+   cd Blackbiard-Advanced-IP-Scanner
    ```
 
 ## How to Use
