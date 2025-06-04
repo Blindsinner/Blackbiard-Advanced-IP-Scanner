@@ -1,4 +1,4 @@
-# Blackbird IP and Vulnerability Scanner
+# Blackbird Advanced IP and Vulnerability Scanner
 
 **Author**: MD Faysal Mahmud
 
